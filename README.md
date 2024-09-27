@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @EDe-Graft
-- 👀 I’m interested in software engineering
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 Software engineering/Machine Learning enthusiast
+- 🌱 Fluent in Python, C++, R, HTML, CSS and JavaScript
+- 💞️ Looking to collaborate on web development or data science projects
+- 📫 Email: edgquansah@gmail.com
 
 <!---
 EDe-Graft/EDe-Graft is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
