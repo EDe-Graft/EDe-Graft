@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EDe-Graft
 - 👀 Software engineering/Machine Learning enthusiast
-- 🌱 Fluent in Python, C++, R, HTML, CSS and JavaScript
+- 🌱 Fluent in JavaScript, Python, C++, R, HTML, CSS
 - 💞️ Looking to collaborate on web development or data science projects
 - 📫 Email: edgquansah@gmail.com
 
