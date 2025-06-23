@@ -10,7 +10,7 @@
 ---
 
 ## 🏆 About Me
-A **4.0 GPA Computer Science student** at William Paterson University with expertise in full-stack development, AI/ML, and cloud technologies. Passionate about building scalable solutions that bridge technology and education.  
+A **4.0 GPA Computer Science student** at William Paterson University with expertise in full-stack mobile and web development, AI/ML, and cloud technologies. Passionate about building scalable solutions that bridge technology and education.  
 
 🔹 **Valedictorian** (2017) | 🏅 **NSMQ Finalist** | 🏆 **Innovation Hub Award Winner**  
 🔹 Built systems serving **50,000+ users** | Reduced latency by **40%** in production apps  
@@ -21,19 +21,28 @@ A **4.0 GPA Computer Science student** at William Paterson University with exper
 
 ### **Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
 
 ### **Frontend**  
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-0.79.3-61DAFB?logo=react&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-53.0.10-000020?logo=expo&logoColor=white)
+![NativeWind](https://img.shields.io/badge/NativeWind-4.1.23-06B6D4?logo=tailwind-css&logoColor=white)
+![Expo Image](https://img.shields.io/badge/Expo_Image-2.2.0-000020?logo=expo&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 
 ### **Backend**  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white)
+![Appwrite](https://img.shields.io/badge/Appwrite-0.9.2-F02E65?logo=appwrite&logoColor=white)
+![Cursor AI](https://img.shields.io/badge/Cursor_AI-000000?logo=cursor&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
 
@@ -53,6 +62,23 @@ A **4.0 GPA Computer Science student** at William Paterson University with exper
 ✔ **Tech:** React, Node.js, PostgreSQL, OAuth, Docker  
 ✔ Scaled to **1,000+ transactions** | Increased registrations by **40%**  
 ✔ Featured: Image carousels, real-time state sync, GCP deployment  
+
+## 🎬 CineNova | [GitHub](https://github.com/ede-graft/CineNova)
+*A React Native movie discovery app*
+✔ **Tech**: React Native, TypeScript, Expo, Appwrite, NativeWind
+✔ Integrated TMDB API for real-time movie data | 40% latency reduction with optimized queries
+✔ Featured: Budget/rating analytics, haptic feedback, cross-platform compatibility
+
+**Key Achievements:**
+✔️🎥 Built end-to-end mobile solution for 10,000+ movie database
+✔️⚡ 50% performance boost using React Native Reanimated
+✔️🔒 Implemented secure data persistence with Appwrite BaaS
+✔️📱 Seamless UX with Expo-powered native features (haptics, blur effects)
+
+**Standout Features:**
+✔️Dynamic movie details with Expo Image optimization
+✔️Type-safe architecture with TypeScript
+✔️Alternative backend-ready (Firebase/Supabase/Cursor AI compatible)
 
 ### 📊 **Student Performance Predictor**  
 *ML model for academic interventions*  
@@ -85,9 +111,9 @@ A **4.0 GPA Computer Science student** at William Paterson University with exper
 ---
 
 ## 🌟 Fun Facts  
-- 🎹 Classical pianist turned coder  
-- 🏀 Basketball analytics hobbyist  
-- 📚 Mentored 50+ students in STEM  
+- 🎹 Space enthusiast turned coder  
+- ⚽ Football analytics hobbyist  
+- 📚 Mentored 100+ students in STEM  
 
 ---
 
