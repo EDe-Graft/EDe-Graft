@@ -24,8 +24,6 @@ A **4.0 GPA Computer Science student** at William Paterson University with exper
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
 
 ### **Frontend**  
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
@@ -44,8 +42,7 @@ A **4.0 GPA Computer Science student** at William Paterson University with exper
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white)
 ![Appwrite](https://img.shields.io/badge/Appwrite-0.9.2-F02E65?logo=appwrite&logoColor=white)
 ![Cursor AI](https://img.shields.io/badge/Cursor_AI-000000?logo=cursor&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
+![Claude AI](https://img.shields.io/badge/Claude_AI-FF6B35?logo=anthropic&logoColor=white&style=for-the-badge)
 
 ### **Data Science & Cloud**  
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
