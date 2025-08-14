@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Edward De-Graft Quansah 
 
-🎓 Computer Science Student | 🚀 Full-Stack Developer | �� AI/ML Enthusiast | �� Founder & CEO  
+🎓 Computer Science Student | 🚀 Full-Stack Developer | 👨🏾‍💻 AI/ML Enthusiast | 👨🏾‍💼 Founder & CEO  
 📍 New Jersey, USA | ✉️ [edgquansah@gmail.com](mailto:edgquansah@gmail.com)  
 
 [![GitHub](https://img.shields.io/badge/GitHub-ede--graft-181717?logo=github)](https://github.com/ede-graft)
