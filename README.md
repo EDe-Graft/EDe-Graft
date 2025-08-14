@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Edward De-Graft Quansah 
 
-🎓 Computer Science Student | 🚀 Full-Stack Developer | 🧠 AI/ML Enthusiast  
+🎓 Computer Science Student | 🚀 Full-Stack Developer | �� AI/ML Enthusiast | �� Founder & CEO  
 📍 New Jersey, USA | ✉️ [edgquansah@gmail.com](mailto:edgquansah@gmail.com)  
 
 [![GitHub](https://img.shields.io/badge/GitHub-ede--graft-181717?logo=github)](https://github.com/ede-graft)
@@ -10,10 +10,11 @@
 ---
 
 ## 🏆 About Me
-A **4.0 GPA Computer Science student** at William Paterson University with expertise in full-stack mobile and web development, AI/ML, and cloud technologies. Passionate about building scalable solutions that bridge technology and education.  
+A **4.0 GPA Computer Science student** at William Paterson University with expertise in full-stack mobile and web development, AI/ML, and cloud technologies. Currently leading **Qurius AI** as Founder & CEO, building the future of AI-powered customer support. Passionate about building scalable solutions that bridge technology and business innovation.  
 
 🔹 **Valedictorian** (2017) | 🏅 **NSMQ Finalist** | 🏆 **Innovation Hub Award Winner**  
 🔹 Built systems serving **50,000+ users** | Reduced latency by **40%** in production apps  
+🔹 **Founder & CEO** of Qurius AI | **AI-Powered Customer Support Platform**
 
 ---
 
@@ -57,13 +58,41 @@ A **4.0 GPA Computer Science student** at William Paterson University with exper
 
 ## 💼 Highlighted Projects
 
+### 🤖 **Qurius AI** | [Live Demo](https://qurius.app) | [GitHub](https://github.com/ede-graft/Qurius-AI)  
+*AI-Powered Website Assistant - Founder & CEO*  
+✔ **Tech:** React, TypeScript, Node.js, PostgreSQL, Supabase, AI/ML, OpenAI API  
+✔ **Full-Stack SaaS Platform** with multi-tenant architecture  
+✔ **AI Chat Widget** with real-time customer support automation  
+✔ **Admin Dashboard** with analytics, FAQ management, and company management  
+✔ **Website Crawler** for automatic FAQ generation from company websites  
+✔ **Multi-language Support** with Google Translate integration  
+✔ **Payment Integration** with Stripe for subscription management  
+
+**Key Achievements:**
+✔️🚀 Built end-to-end AI customer support solution from concept to production
+✔️💼 Multi-tenant SaaS architecture serving multiple companies
+✔️🤖 AI-powered chat widget with FAQ matching and fallback responses
+✔️📊 Comprehensive analytics dashboard with real-time insights
+✔️🌐 Website crawler for automatic content generation
+✔️🔒 Secure authentication with role-based access control
+✔️📱 Responsive design optimized for all devices
+✔️💰 Subscription management with Stripe integration
+
+**Standout Features:**
+✔️Real-time AI chat widget with customizable themes
+✔️Advanced FAQ management with import/export capabilities
+✔️Website crawler for automatic FAQ generation
+✔️Multi-language support for global reach
+✔️Comprehensive analytics and performance tracking
+✔️Admin dashboard for company and user management
+
 ### 🚀 **ShareSphere** | [GitHub](https://github.com/ede-graft/ShareSphere)  
 *A campus item-sharing platform*  
 ✔ **Tech:** React, Node.js, PostgreSQL, OAuth, Docker  
 ✔ Scaled to **1,000+ transactions** | Increased registrations by **40%**  
 ✔ Featured: Image carousels, real-time state sync, GCP deployment  
 
-## 🎬 CineNova | [GitHub](https://github.com/ede-graft/CineNova)
+### 🎬 **CineNova** | [GitHub](https://github.com/ede-graft/CineNova)
 *A React Native movie discovery app*
 ✔ **Tech**: React Native, TypeScript, Expo, Appwrite, NativeWind
 ✔ Integrated TMDB API for real-time movie data | 40% latency reduction with optimized queries
@@ -72,7 +101,7 @@ A **4.0 GPA Computer Science student** at William Paterson University with exper
 **Key Achievements:**
 ✔️🎥 Built end-to-end mobile solution for 10,000+ movie database
 ✔️⚡ 50% performance boost using React Native Reanimated
-✔️🔒 Implemented secure data persistence with Appwrite BaaS
+✔️�� Implemented secure data persistence with Appwrite BaaS
 ✔️📱 Seamless UX with Expo-powered native features (haptics, blur effects)
 
 **Standout Features:**
@@ -90,14 +119,24 @@ A **4.0 GPA Computer Science student** at William Paterson University with exper
 
 ## 🏢 Professional Experience
 
+### **Founder & CEO** @ [Qurius AI](https://qurius.app) *(Remote)*  
+`July 2025 - Present`  
+- **Founded and lead** AI-powered customer support platform serving multiple companies
+- **Architected full-stack SaaS solution** with React, TypeScript, Node.js, and PostgreSQL
+- **Developed AI chat widget** with real-time customer support automation
+- **Built comprehensive admin dashboard** with analytics, FAQ management, and company management
+- **Implemented website crawler** for automatic FAQ generation from company websites
+- **Integrated payment system** with Stripe for subscription management
+- **Led product development** from concept to production deployment
+
 ### **Software Engineer** @ [AyaPrep Limited](https://ayaprep.com) *(Remote)*  
-`Jun 2022 - Present`  
+`Jun 2022 - May 2024`  
 - Built RESTful APIs (Python/Flask) boosting engagement by **30%**  
 - Slashed latency by **40%** via caching & database optimization  
 - Secured platform with JWT/OAuth role-based auth  
 
 ### **IT Support Specialist** @ William Paterson University  
-`Aug 2023 - Present`  
+`Aug 2023 - May 2025`  
 - Resolved **95% of IT issues** within SLAs for 500+ users  
 - Debugged OS/hardware failures with Wireshark/SCCM  
 
@@ -106,7 +145,7 @@ A **4.0 GPA Computer Science student** at William Paterson University with exper
 ## 📚 Education  
 **William Paterson University**  
 `BS in Computer Science | GPA: 4.00 | Dec 2025`  
-📖 Relevant Courses: AI, Cloud Computing, Data Mining, Security, Parallel Computing  
+📖 Relevant Courses: AI, Software Engineering, Cloud Computing, Data Mining, Security, Parallel Computing  
 
 ---
 
@@ -114,6 +153,7 @@ A **4.0 GPA Computer Science student** at William Paterson University with exper
 - 🎹 Space enthusiast turned coder  
 - ⚽ Football analytics hobbyist  
 - 📚 Mentored 100+ students in STEM  
+- 🚀 Building the future of AI-powered customer support
 
 ---
 
