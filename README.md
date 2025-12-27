@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Edward De-Graft Quansah 
 
-🎓 Computer Science Student | 🚀 Full-Stack Developer | 👨🏾‍💻 AI/ML Enthusiast | 👨🏾‍💼 Founder & CEO  
+🎓 Computer Science Student | 🚀 Full-Stack Developer | 👨🏾‍💻 AI/ML Engineer | 👨🏾‍💼 Founder & CEO  
 📍 New Jersey, USA | ✉️ [edgquansah@gmail.com](mailto:edgquansah@gmail.com)  
 
 [![GitHub](https://img.shields.io/badge/GitHub-ede--graft-181717?logo=github)](https://github.com/ede-graft)
@@ -10,11 +10,12 @@
 ---
 
 ## 🏆 About Me
-A **4.0 GPA Computer Science student** at William Paterson University with expertise in full-stack mobile and web development, AI/ML, and cloud technologies. Currently leading **Qurius AI** as Founder & CEO, building the future of AI-powered customer support. Passionate about building scalable solutions that bridge technology and business innovation.  
+A **3.98 GPA Computer Science student** at William Paterson University with expertise in full-stack mobile and web development, AI/ML, and cloud technologies. Currently leading **Qurius AI** as Founder & CEO, building the future of AI-powered web assistance and analytics. Passionate about building scalable solutions that bridge technology and business innovation.  
 
+🔹 **Computer Science-Artificial Intelligence Intern | **New Jersey Division on Civil Rights - Innovation Lab**
 🔹 **Valedictorian** (2017) | 🏅 **NSMQ Finalist** | 🏆 **Innovation Hub Award Winner**  
 🔹 Built systems serving **50,000+ users** | Reduced latency by **40%** in production apps  
-🔹 **Founder & CEO** of Qurius AI | **AI-Powered Customer Support Platform**
+🔹 **Founder & CEO** of Qurius AI | **AI-Powered Web Assistant and Analytics Platform**
 
 ---
 
@@ -59,7 +60,7 @@ A **4.0 GPA Computer Science student** at William Paterson University with exper
 *AI-Powered Website Assistant - Founder & CEO*  
 ✔ **Tech:** React, TypeScript, Node.js, PostgreSQL, Supabase, AI/ML, OpenAI API  
 ✔ **Full-Stack SaaS Platform** with multi-tenant architecture  
-✔ **AI Chat Widget** with real-time customer support automation  
+✔ **AI Web Assistant** with real-time customer support automation  
 ✔ **Admin Dashboard** with analytics, FAQ management, and company management  
 ✔ **Website Crawler** for automatic FAQ generation from company websites  
 ✔ **Multi-language Support** with Google Translate integration  
@@ -116,8 +117,19 @@ A **4.0 GPA Computer Science student** at William Paterson University with exper
 
 ## 🏢 Professional Experience
 
+### **Artificial Intelligence (AI) Intern** @ [New Jersey Division on Civil Rights]([https://qurius.app](https://innovation.nj.gov/)) *(Newark, New Jersey)*  
+`Dec 2025 - Mar 2026`
+- **Conduct research on AI governance, risk management, and workforce adoption, supporting responsible AI use in a state civil
+rights agency.
+- **Assist in evaluating algorithmic bias, fairness, and explainability for AI systems used in public-sector decision-making.
+- **Developed AI chat widget** with real-time customer support automation
+- **Apply data analysis and machine learning concepts to evaluate risks, and fairness tradeoffs in AI-assisted systems.
+- **Contribute to AI-driven tools and public education materials that inform New Jersey residents about their rights related to
+AI systems.
+
+
 ### **Founder & CEO** @ [Qurius AI](https://qurius.app) *(Remote)*  
-`July 2025 - Present`  
+`July 2025 - Dec 2025`  
 - **Founded and lead** AI-powered customer support platform serving multiple companies
 - **Architected full-stack SaaS solution** with React, TypeScript, Node.js, and PostgreSQL
 - **Developed AI chat widget** with real-time customer support automation
@@ -141,8 +153,8 @@ A **4.0 GPA Computer Science student** at William Paterson University with exper
 
 ## 📚 Education  
 **William Paterson University**  
-`BS in Computer Science | GPA: 4.00 | Dec 2025`  
-📖 Relevant Courses: AI, Software Engineering, Cloud Computing, Data Mining, Security, Parallel Computing  
+`BS in Computer Science | GPA: 3.98 | May 2026`  
+📖 Relevant Courses: AI, Software Engineering, Cloud Computing, Data Mining and Machine Learning, Network Security, Parallel Computing, Statistical Computing, Probability and Statistics  
 
 ---
 
