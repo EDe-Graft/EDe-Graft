@@ -84,17 +84,22 @@ A **3.98 GPA Computer Science student** at William Paterson University with expe
 ✔️Comprehensive analytics and performance tracking
 ✔️Admin dashboard for company and user management
 
-### 🚀 **ShareSphere** | [GitHub](https://github.com/ede-graft/ShareSphere)  
-*A campus item-sharing platform*  
-✔ **Tech:** React, Node.js, PostgreSQL, OAuth, Docker  
-✔ Scaled to **1,000+ transactions** | Increased registrations by **40%**  
-✔ Featured: Image carousels, real-time state sync, GCP deployment  
-
-### 🎬 **CineNova** | [GitHub](https://github.com/ede-graft/CineNova)
-*A React Native movie discovery app*
-✔ **Tech**: React Native, TypeScript, Expo, Appwrite, NativeWind
-✔ Integrated TMDB API for real-time movie data | 40% latency reduction with optimized queries
-✔ Featured: Budget/rating analytics, haptic feedback, cross-platform compatibility
+### 📲 **AI-Cal-Scan** | [GitHub](https://github.com/ede-graft/AI-Cal-Scan)
+*An AI-powered iOS and Android calorie tracker app that lets you snap a photo of your meal for instant food recognition and calorie estimation*
+✔ Tech: React Native, TypeScript, Expo, Supabase, NativeWind (Tailwind), OpenRouter API
+✔ Integrated OpenAI GPT-4o-mini vision model via OpenRouter for real-time food analysis | Enforced JSON output + confidence scoring
+✔ 40% faster data sync with optimized Supabase queries and auto-refetch on navigation
+Key Achievements:
+✔️📸 Built end-to-end mobile calorie scanner with computer vision AI
+✔️⚡ 50% smoother UX using Expo Router, useFocusEffect for instant dashboard refresh, and React Native Reanimated patterns
+✔️🔒 Implemented secure authentication & data persistence with Supabase BaaS
+✔️📱 Delivered seamless native experience with haptics, blur effects, dark/light theme toggle, and pull-to-refresh
+Standout Features:
+✔️Dynamic meal logging with AI-pre-filled food name, calories, and confidence score
+✔️Interactive dashboard with circular progress ring, remaining calories, and meal history
+✔️Type-safe architecture throughout with TypeScript and custom hooks (useMeals, useTheme)
+✔️Alternative backend-ready (Appwrite/Firebase compatible) and production-optimized patterns
+Perfect showcase of full-stack mobile development + modern AI integration — complementing Qurius AI (enterprise RAG SaaS) in demonstrating real-world vision AI, scalable architecture, and polished user experience
 
 **Key Achievements:**
 ✔️🎥 Built end-to-end mobile solution for 10,000+ movie database
@@ -106,6 +111,22 @@ A **3.98 GPA Computer Science student** at William Paterson University with expe
 ✔️Dynamic movie details with Expo Image optimization
 ✔️Type-safe architecture with TypeScript
 ✔️Alternative backend-ready (Firebase/Supabase/Cursor AI compatible)
+
+### 🏧 **ATM System** | [Google Docs](https://docs.google.com/document/d/1FBtb8BlCqD27APAUatbXh-b9tFyjCAezAJKCJ1umitY/edit?usp=sharing)  
+*Fully functional ATM System with complete SDLC*  
+✔  Designed and implemented a full ATM system from scratch following object-oriented software engineering principles and a
+complete SDLC 
+✔ Translated formal requirements into UML use case, class, communication and sequence diagrams, then into maintainable
+code.
+✔ Implemented core banking workflows including authentication, balance inquiries, withdrawals, deposits, transfers, and receipt
+printing with robust error handling and state management
+
+
+### 🚀 **ShareSphere** | [GitHub](https://github.com/ede-graft/ShareSphere)  
+*A campus item-sharing platform*  
+✔ **Tech:** React, Node.js, PostgreSQL, OAuth, Docker  
+✔ Scaled to **1,000+ transactions** | Increased registrations by **40%**  
+✔ Featured: Image carousels, real-time state sync, GCP deployment  
 
 ### 📊 **Student Performance Predictor**  
 *ML model for academic interventions*  
@@ -162,7 +183,7 @@ AI systems.
 - 🎹 Space enthusiast turned coder  
 - ⚽ Football analytics hobbyist  
 - 📚 Mentored 100+ students in STEM  
-- 🚀 Building the future of AI-powered customer support
+- 🚀 Solving problems with AI
 
 ---
 
