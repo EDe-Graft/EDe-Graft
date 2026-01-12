@@ -5,7 +5,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-ede--graft-181717?logo=github)](https://github.com/ede-graft)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-De--Graft-0A66C2?logo=linkedin)](https://linkedin.com/in/de-graft/)
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Coming_Soon-FF7139?logo=react)](https://edgquansah.com)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF7139?logo=react)](https://edgquansah.com)
 
 ---
 
