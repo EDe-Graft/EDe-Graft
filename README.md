@@ -12,7 +12,7 @@
 ## 🏆 About Me
 A **3.98 GPA Computer Science student** at William Paterson University with expertise in full-stack mobile and web development, AI/ML, and cloud technologies. Currently leading **Qurius AI** as Founder & CEO, building the future of AI-powered web assistance and analytics. Passionate about building scalable solutions that bridge technology and business innovation.  
 
-🔹 **Computer Science-Artificial Intelligence Intern | **New Jersey Division on Civil Rights - Innovation Lab**
+🔹 **Computer Science-Artificial Intelligence Intern** | **New Jersey Division on Civil Rights - Innovation Lab**
 🔹 **Valedictorian** (2017) | 🏅 **NSMQ Finalist** | 🏆 **Innovation Hub Award Winner**  
 🔹 Built systems serving **50,000+ users** | Reduced latency by **40%** in production apps  
 🔹 **Founder & CEO** of Qurius AI | **AI-Powered Web Assistant and Analytics Platform**
