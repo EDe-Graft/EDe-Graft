@@ -84,6 +84,12 @@ A **3.98 GPA Computer Science student** at William Paterson University with expe
 ✔️Comprehensive analytics and performance tracking
 ✔️Admin dashboard for company and user management
 
+### 🚀 **ShareSphere** | [Website](https://sharesphere.app)  
+*A resource-sharing platform for students*  
+✔ **Tech:** React, Node.js, Express, PostgreSQL, OAuth, Docker  
+✔ Scaled to **1,000+ transactions** | Increased registrations by **40%**  
+✔ Featured: Image carousels, real-time state sync, GCP deployment  
+
 ### 📲 **AI-Cal-Scan** | [GitHub](https://github.com/ede-graft/AI-Cal-Scan)
 *An AI-powered iOS and Android calorie tracker app that lets you snap a photo of your meal for instant food recognition and calorie estimation*
 ✔ Tech: React Native, TypeScript, Expo, Supabase, NativeWind (Tailwind), OpenRouter API
@@ -122,12 +128,6 @@ code.
 printing with robust error handling and state management
 
 
-### 🚀 **ShareSphere** | [Website](https://sharesphere.app)  
-*A campus item-sharing platform*  
-✔ **Tech:** React, Node.js, PostgreSQL, OAuth, Docker  
-✔ Scaled to **1,000+ transactions** | Increased registrations by **40%**  
-✔ Featured: Image carousels, real-time state sync, GCP deployment  
-
 ### 📊 **Student Performance Predictor**  
 *ML model for academic interventions*  
 ✔ **Tech:** Python, scikit-learn, Pandas, Matplotlib  
@@ -139,13 +139,12 @@ printing with robust error handling and state management
 ## 🏢 Professional Experience
 
 ### **Artificial Intelligence (AI) Intern** @ [New Jersey Division on Civil Rights]([https://qurius.app](https://innovation.nj.gov/)) *(Newark, New Jersey)*  
-`Dec 2025 - Mar 2026`
+`Jan 2026 - Apr 2026`
 - **Conduct research on AI governance, risk management, and workforce adoption, supporting responsible AI use in a state civil
 rights agency.
 - **Assist in evaluating algorithmic bias, fairness, and explainability for AI systems used in public-sector decision-making.
-- **Developed AI chat widget** with real-time customer support automation
 - **Apply data analysis and machine learning concepts to evaluate risks, and fairness tradeoffs in AI-assisted systems.
-- **Contribute to AI-driven tools and public education materials that inform New Jersey residents about their rights related to
+- **Contribute to AI-driven tools and public education materials that help investigators process cases faster, and help inform New Jersey residents about their rights related to
 AI systems.
 
 
