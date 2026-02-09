@@ -85,10 +85,17 @@ A **3.98 GPA Computer Science student** at William Paterson University with expe
 ✔️Admin dashboard for company and user management
 
 ### 🚀 **ShareSphere** | [Website](https://sharesphere.app)  
-*A resource-sharing platform for students*  
-✔ **Tech:** React, Node.js, Express, PostgreSQL, OAuth, Docker  
+*A resource-sharing web-based platform for students to share items they no longer need including books, furniture, electronics and clothing*  
+✔ **Tech:** React, TailwindCSS, ShadCN/UI, Node.js, Express, Neon PostgreSQL 
 ✔ Scaled to **1,000+ transactions** | Increased registrations by **40%**  
 ✔ Featured: Image carousels, real-time state sync, GCP deployment  
+**Key Achievements:**
+✔️Built full-stack campus platform with React, Node.js, Express, PostgreSQL, facilitating 100+ student item
+donations and requests
+✔️Implemented secure OAuth login (Google, GitHub, Facebook) and centralized like system with state-synced React
+components for improved engagement.
+✔️Deployed on Vercel and Render ensuring scalability, high availability, and reliable media storage
+via Cloudinary.
 
 ### 📲 **AI-Cal-Scan** | [GitHub](https://github.com/ede-graft/AI-Cal-Scan)
 *An AI-powered iOS and Android calorie tracker app that lets you snap a photo of your meal for instant food recognition and calorie estimation*
