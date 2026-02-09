@@ -56,7 +56,7 @@ A **3.98 GPA Computer Science student** at William Paterson University with expe
 
 ## 💼 Highlighted Projects
 
-### 🤖 **Qurius AI** | [Live Demo](https://qurius.app) | [GitHub](https://github.com/ede-graft/Qurius-AI)  
+### 🤖 **Qurius AI** | [Live Demo](https://qurius.app/demo) | [Website](https://qurius.app)  
 *AI-Powered Website Assistant - Founder & CEO*  
 ✔ **Tech:** React, TypeScript, Node.js, PostgreSQL, Supabase, AI/ML, OpenAI API  
 ✔ **Full-Stack SaaS Platform** with multi-tenant architecture  
@@ -122,7 +122,7 @@ code.
 printing with robust error handling and state management
 
 
-### 🚀 **ShareSphere** | [GitHub](https://github.com/ede-graft/ShareSphere)  
+### 🚀 **ShareSphere** | [Website](https://sharesphere.app)  
 *A campus item-sharing platform*  
 ✔ **Tech:** React, Node.js, PostgreSQL, OAuth, Docker  
 ✔ Scaled to **1,000+ transactions** | Increased registrations by **40%**  
