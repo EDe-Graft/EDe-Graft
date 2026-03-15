@@ -147,12 +147,10 @@ printing with robust error handling and state management
 
 ### **Artificial Intelligence (AI) Intern** @ [New Jersey Division on Civil Rights]([https://qurius.app](https://innovation.nj.gov/)) *(Newark, New Jersey)*  
 `Jan 2026 - Apr 2026`
-- **Conduct research on AI governance, risk management, and workforce adoption, supporting responsible AI use in a state civil
-rights agency.
-- **Assist in evaluating algorithmic bias, fairness, and explainability for AI systems used in public-sector decision-making.
-- **Apply data analysis and machine learning concepts to evaluate risks, and fairness tradeoffs in AI-assisted systems.
-- **Contribute to AI-driven tools and public education materials that help investigators process cases faster, and help inform New Jersey residents about their rights related to
-AI systems.
+- Developed NJ Fair, an AI-powered interview summarization tool built with Next.js, Flask, PostgreSQL, and OpenAI, deployed on Azure to help investigators extract structured insights from civil rights case interviews..
+- Engineered algorithmic bias detection pipelines using Python and scikit-learn to evaluate fairness and explainability in public-sector AI decision systems..
+- Applied NLP and machine learning techniques to assess risk and fairness tradeoffs in AI-assisted civil rights enforcement tools.
+- Contributed to AI governance research and public-facing educational materials informing New Jersey residents of their rights under AI-driven systems.
 
 
 ### **Founder & CEO** @ [Qurius AI](https://qurius.app) *(Remote)*  
