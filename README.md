@@ -1,11 +1,11 @@
 # 👋 Hello, I'm Edward De-Graft Quansah 
 
-🎓 Computer Science Student | 🚀 Full-Stack Developer | 👨🏾‍💻 AI/ML Engineer | 👨🏾‍💼 Founder & CEO  
+🎗️ Omicron Omega Award for Excellence in Computer Science 2026 | 🚀 Full-Stack Developer | 👨🏾‍💻 AI/ML Engineer | 👨🏾‍💼 Founder & CEO  
 📍 New Jersey, USA | ✉️ [edgquansah@gmail.com](mailto:edgquansah@gmail.com)  
 
 [![GitHub](https://img.shields.io/badge/GitHub-ede--graft-181717?logo=github)](https://github.com/ede-graft)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-De--Graft-0A66C2?logo=linkedin)](https://linkedin.com/in/de-graft/)
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF7139?logo=react)](https://edgquansah.com)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF7139?logo=react)](https://www.edgquansah.com)
 
 ---
 
@@ -148,9 +148,10 @@ printing with robust error handling and state management
 ### **Artificial Intelligence (AI) Intern** @ [New Jersey Division on Civil Rights]([https://qurius.app](https://innovation.nj.gov/)) *(Newark, New Jersey)*  
 `Jan 2026 - Apr 2026`
 - Developed NJ Fair, an AI-powered interview summarization tool built with Next.js, Flask, PostgreSQL, and OpenAI, deployed on Azure to help investigators extract structured insights from civil rights case interviews..
-- Engineered algorithmic bias detection pipelines using Python and scikit-learn to evaluate fairness and explainability in public-sector AI decision systems..
-- Applied NLP and machine learning techniques to assess risk and fairness tradeoffs in AI-assisted civil rights enforcement tools.
-- Contributed to AI governance research and public-facing educational materials informing New Jersey residents of their rights under AI-driven systems.
+- Diagnosed and resolved core accuracy issues—including truncated transcripts, entity errors, and ASR weaknesses—through deterministic chunking, validation safeguards, and targeted prompt engineering.
+- Led evaluation and adversarial testing efforts, synthesizing investigator feedback to strengthen trustworthiness, reduce
+hallucination risk, and improve the fairness and reliability of AI-assisted case review..
+- Contributed to AI governance research and public-facing educational materials for training DCR Staff.
 
 
 ### **Founder & CEO** @ [Qurius AI](https://qurius.app) *(Remote)*  
